@@ -1,5 +1,5 @@
 print("hello data type")
-/*  Data types
+/*  Data Types
     1. note that data types must start with capital letters
     2. type inference
     3. check the type
