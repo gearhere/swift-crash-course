@@ -3,6 +3,8 @@
    2. repeat while
 */
 
+print("hello while loop")
+
 var flag = true
 var a = 0
 while flag {

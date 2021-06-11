@@ -1,10 +1,10 @@
-/* Loop
+/* For Loop
    1. range operators
    2. for in
    3. continue / break
 */
 
-print("hello loop")
+print("hello for loop")
 
 // range operators
 var a = 1...4+1
