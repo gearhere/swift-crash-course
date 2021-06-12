@@ -2,6 +2,8 @@
    1. declaration
    2. operations
    3. optinals binding
+   4. filter
+   5. traverse
 */
 
 print("hello dictionary")
